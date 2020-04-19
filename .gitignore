@@ -18,3 +18,5 @@ source/.jekyll-metadata
 !.vscode/tasks.json
 *.suo
 tags*
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
